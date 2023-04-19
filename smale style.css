@@ -1,0 +1,71 @@
+body
+{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(70,166,90,1) 39%, rgba(80,192,98,1) 45%, rgba(0,212,255,1) 100%);
+}
+.login{
+        border-radius: 2%;
+        width: 382px;
+        overflow: hidden;
+        margin: auto;
+        margin: 20 0 0 450px;
+        padding: 80px;
+        background: #3a5a54;
+        opacity:65%;
+
+
+}
+h2{
+    text-align: center;
+    color: #ffffff;
+}
+label{
+    color: #ffffff;
+    font-size: 15px;
+    font-style:oblique;
+}
+#Uname{
+    width: 375px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+}
+#Pass{
+    width: 375px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+
+}
+#log{
+    width: 375px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+    background-color: #292d2c;
+    color: #f9f4f4;
+
+
+}
+span{
+    color: rgb(254, 254, 254);
+    font-size: 17px;
+}
+#{
+    float:right;
+    
+}
+form >h6{
+    color: #f2e3e3;
+    text-align: center;
+}
+p{
+    text-align:center;
+    color: #ffffff;
+}
+#remember{
+    color: #ffffff;
+}
