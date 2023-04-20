@@ -1,0 +1,17 @@
+.divall{
+    gap: 2%;;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+    padding: auto;
+}
+#div1{
+    border-style: solid;
+    
+}
+#div2{
+    border-style: solid;
+}
+#div3{
+    border-style: solid;
+}
